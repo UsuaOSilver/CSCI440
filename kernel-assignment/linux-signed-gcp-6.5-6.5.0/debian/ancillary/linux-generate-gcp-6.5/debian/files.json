@@ -1,0 +1,16 @@
+{
+  "linux-generate-gcp-6.5": {
+    "files": [
+      {
+        "sig_type": "efi",
+        "file": "/boot/vmlinuz-6.5.0-1025-gcp",
+        "arch": "amd64"
+      },
+      {
+        "sig_type": "efi",
+        "file": "/boot/vmlinuz-6.5.0-1025-gcp",
+        "arch": "arm64"
+      }
+    ]
+  }
+}

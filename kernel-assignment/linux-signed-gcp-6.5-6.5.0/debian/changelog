@@ -1,0 +1,180 @@
+linux-signed-gcp-6.5 (6.5.0-1025.27~22.04.1) jammy; urgency=medium
+
+  * Main version: 6.5.0-1025.27~22.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- Kevin Becker <kevin.becker@canonical.com>  Tue, 16 Jul 2024 17:26:19 -0400
+
+linux-signed-gcp-6.5 (6.5.0-1024.26~22.04.1) jammy; urgency=medium
+
+  * Main version: 6.5.0-1024.26~22.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] update variants
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- John Cabaj <john.cabaj@canonical.com>  Fri, 14 Jun 2024 12:14:32 -0500
+
+linux-signed-gcp-6.5 (6.5.0-1023.25~22.04.1) jammy; urgency=medium
+
+  * Main version: 6.5.0-1023.25~22.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- John Cabaj <john.cabaj@canonical.com>  Thu, 13 Jun 2024 13:04:45 -0500
+
+linux-signed-gcp-6.5 (6.5.0-1022.24~22.04.1) jammy; urgency=medium
+
+  * Main version: 6.5.0-1022.24~22.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- John Cabaj <john.cabaj@canonical.com>  Tue, 28 May 2024 09:36:42 -0500
+
+linux-signed-gcp-6.5 (6.5.0-1021.23~22.04.1) jammy; urgency=medium
+
+  * Main version: 6.5.0-1021.23~22.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- John Cabaj <john.cabaj@canonical.com>  Thu, 09 May 2024 16:58:49 -0500
+
+linux-signed-gcp-6.5 (6.5.0-1020.20~22.04.1) jammy; urgency=medium
+
+  * Main version: 6.5.0-1020.20~22.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- John Cabaj <john.cabaj@canonical.com>  Tue, 30 Apr 2024 15:15:01 -0500
+
+linux-signed-gcp-6.5 (6.5.0-1019.19~22.04.1) jammy; urgency=medium
+
+  * Main version: 6.5.0-1019.19~22.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- John Cabaj <john.cabaj@canonical.com>  Fri, 19 Apr 2024 15:09:27 -0500
+
+linux-signed-gcp-6.5 (6.5.0-1018.18~22.04.1) jammy; urgency=medium
+
+  * Main version: 6.5.0-1018.18~22.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- John Cabaj <john.cabaj@canonical.com>  Thu, 04 Apr 2024 21:48:41 -0500
+
+linux-signed-gcp-6.5 (6.5.0-1017.17~22.04.1) jammy; urgency=medium
+
+  * Main version: 6.5.0-1017.17~22.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] remove update-version script
+
+  * Miscellaneous Ubuntu changes
+    - debian/tracking-bug -- update from main
+
+ -- John Cabaj <john.cabaj@canonical.com>  Thu, 14 Mar 2024 13:09:18 -0500
+
+linux-signed-gcp-6.5 (6.5.0-1016.16~22.04.1) jammy; urgency=medium
+
+  * Master version: 6.5.0-1016.16~22.04.1
+
+  * Miscellaneous Ubuntu changes
+    - debian/tracking-bug -- update from master
+
+ -- John Cabaj <john.cabaj@canonical.com>  Fri, 08 Mar 2024 17:03:09 -0600
+
+linux-signed-gcp-6.5 (6.5.0-1015.15~22.04.1) jammy; urgency=medium
+
+  * Master version: 6.5.0-1015.15~22.04.1
+
+  * Miscellaneous Ubuntu changes
+    - debian/tracking-bug -- update from master
+
+ -- John Cabaj <john.cabaj@canonical.com>  Wed, 14 Feb 2024 13:48:57 -0600
+
+linux-signed-gcp-6.5 (6.5.0-1014.14~22.04.1) jammy; urgency=medium
+
+  * Master version: 6.5.0-1014.14~22.04.1
+
+  * Miscellaneous Ubuntu changes
+    - debian/tracking-bug -- update from master
+
+ -- John Cabaj <john.cabaj@canonical.com>  Fri, 09 Feb 2024 21:11:30 -0600
+
+linux-signed-gcp-6.5 (6.5.0-1013.13~22.04.1) jammy; urgency=medium
+
+  * Master version: 6.5.0-1013.13~22.04.1
+
+  * Miscellaneous Ubuntu changes
+    - debian/tracking-bug -- update from master
+
+ -- John Cabaj <john.cabaj@canonical.com>  Wed, 24 Jan 2024 16:03:54 -0600
+
+linux-signed-gcp-6.5 (6.5.0-1012.12~22.04.1) jammy; urgency=medium
+
+  * Master version: 6.5.0-1012.12~22.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] update variants
+
+  * Miscellaneous Ubuntu changes
+    - debian/tracking-bug -- update from master
+
+ -- John Cabaj <john.cabaj@canonical.com>  Wed, 17 Jan 2024 11:27:13 -0600
+
+linux-signed-gcp-6.5 (6.5.0-1011.11~22.04.1) jammy; urgency=medium
+
+  * Master version: 6.5.0-1011.11~22.04.1
+
+  * Miscellaneous Ubuntu changes
+    - debian/tracking-bug -- update from master
+
+ -- John Cabaj <john.cabaj@canonical.com>  Thu, 11 Jan 2024 15:33:52 -0600
+
+linux-signed-gcp-6.5 (6.5.0-1010.10~22.04.3) jammy; urgency=medium
+
+  * Master version: 6.5.0-1010.10~22.04.3
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] resync git-ubuntu-log
+
+ -- John Cabaj <john.cabaj@canonical.com>  Tue, 21 Nov 2023 14:02:29 -0600
+
+linux-signed-gcp-6.5 (6.5.0-1010.10~22.04.2) jammy; urgency=medium
+
+  * Master version: 6.5.0-1010.10~22.04.2
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] resync git-ubuntu-log
+
+  * Miscellaneous Ubuntu changes
+    - debian/tracking-bug -- update from master
+
+ -- John Cabaj <john.cabaj@canonical.com>  Sat, 18 Nov 2023 10:05:54 -0600
+
+linux-signed-gcp-6.5 (6.5.0-1010.10~22.04.1) jammy; urgency=medium
+
+  * Master version: 6.5.0-1010.10~22.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] update variants
+
+  * SIGNEDv3: add a linux-generate ancillary package (LP: #1989705)
+    - [Packaging] convert to v3.1 autogen for gcp-6.5
+
+ -- John Cabaj <john.cabaj@canonical.com>  Fri, 17 Nov 2023 16:54:38 -0600
+
+linux-signed-gcp-6.5 (6.5.0-1000.0) jammy; urgency=medium
+
+  * Empty entry 
+
+ -- John Cabaj <john.cabaj@canonical.com>  Fri, 17 Nov 2023 15:43:53 -0600

@@ -1,0 +1,19 @@
+linux-generate-gcp-6.5 (6.5.0-1025.27~22.04.1) jammy; urgency=medium
+
+  * Main version: 6.5.0-1025.27~22.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- Kevin Becker <kevin.becker@canonical.com>  Tue, 16 Jul 2024 17:26:19 -0400
+
+linux-generate-gcp-6.5 (6.5.0-1024.26~22.04.1) jammy; urgency=medium
+
+  * Main version: 6.5.0-1024.26~22.04.1
+
+  * Packaging resync (LP: #1786013)
+    - [Packaging] update variants
+    - [Packaging] debian/tracking-bug -- resync from main package
+
+ -- John Cabaj <john.cabaj@canonical.com>  Fri, 14 Jun 2024 12:14:32 -0500
+
